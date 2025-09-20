@@ -1,1 +1,16 @@
-
+// {
+  "name": "minecraft-random-bot",
+  "version": "1.0.0",
+  "description": "Un bot Minecraft qui se déplace aléatoirement et attaque avec une épée",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.15.0",
+    "mineflayer-pathfinder": "^2.4.0"
+  },
+  "keywords": ["minecraft", "bot", "mineflayer"],
+  "author": "VotreNom",
+  "license": "MIT"
+}
